@@ -1,3 +1,3 @@
 # PWAGram
 
-<img width="365" alt="Screenshot 2024-04-29 at 8 25 35 AM" src="https://github.com/VitaliPri/PWAGram/assets/101225909/9098e2eb-d64c-4ce9-965d-3cc154180350">
+<img width="1593" alt="manifest" src="https://github.com/VitaliPri/PWAGram/assets/101225909/d8e4adb5-1e29-44a3-a581-d2a1addb74d3">
